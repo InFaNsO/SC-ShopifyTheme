@@ -193,8 +193,8 @@
         "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 4
+        "padding_top": 16,
+        "padding_bottom": 28
       }
     },
     "1657049246facafce7": {
@@ -266,7 +266,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 16
       }
     },
     "video": {
