@@ -221,7 +221,7 @@
         "1657048164dee18a86-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": "womens-accessories"
+            "collection": "fashion-accessories"
           }
         },
         "1657048164dee18a86-2": {
@@ -229,18 +229,32 @@
           "settings": {
             "collection": "table-planters"
           }
+        },
+        "035ae29d-1ee0-46f0-b421-c45fd82c3bf2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "home-decor"
+          }
+        },
+        "2c0a3e82-ca7d-4959-9c78-4e5b70e9efe4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "neon-lights"
+          }
         }
       },
       "block_order": [
         "1657048164dee18a86-0",
         "1657048164dee18a86-1",
-        "1657048164dee18a86-2"
+        "1657048164dee18a86-2",
+        "035ae29d-1ee0-46f0-b421-c45fd82c3bf2",
+        "2c0a3e82-ca7d-4959-9c78-4e5b70e9efe4"
       ],
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "2",
