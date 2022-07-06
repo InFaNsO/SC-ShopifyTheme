@@ -53,6 +53,7 @@
   word-break: break-word;
   overflow-x: auto;
   padding: 0 0.6rem;
+  text-align: justify;
 }
 
 .accordion__content img {
