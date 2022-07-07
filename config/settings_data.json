@@ -138,6 +138,20 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "703d9fe8-c177-457f-8581-c80a9dce1b49": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Company",
+              "menu": "company"
+            }
+          },
+          "01e4e58e-a372-4f6c-a6a8-35fca5541f08": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Collections",
+              "menu": "collections"
+            }
+          },
           "footer-1": {
             "type": "link_list",
             "settings": {
@@ -147,15 +161,26 @@
           },
           "footer-2": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "299a05b2-0576-4328-90d1-013e137135e9": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact Us",
+              "subtext": "<p>info@selectivecollective.in<\/p>"
+            }
           }
         },
         "block_order": [
+          "703d9fe8-c177-457f-8581-c80a9dce1b49",
+          "01e4e58e-a372-4f6c-a6a8-35fca5541f08",
           "footer-1",
-          "footer-2"
+          "footer-2",
+          "299a05b2-0576-4328-90d1-013e137135e9"
         ],
         "settings": {
           "color_scheme": "accent-1",
