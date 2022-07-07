@@ -20,10 +20,10 @@
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "buttons_border_thickness": 1,
-    "buttons_border_opacity": 100,
+    "buttons_border_opacity": 65,
     "buttons_radius": 0,
-    "buttons_shadow_opacity": 0,
-    "buttons_shadow_horizontal_offset": 0,
+    "buttons_shadow_opacity": 25,
+    "buttons_shadow_horizontal_offset": -2,
     "buttons_shadow_vertical_offset": 4,
     "buttons_shadow_blur": 5,
     "variant_pills_border_thickness": 1,
@@ -84,9 +84,9 @@
     "sold_out_badge_color_scheme": "inverse",
     "accent_icons": "outline-button",
     "social_twitter_link": "",
-    "social_facebook_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/selectivecollective.in",
     "social_pinterest_link": "",
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/selectivecollective.in\/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -95,8 +95,10 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "favicon": "shopify:\/\/shop_images\/Logo_PNG.png",
     "currency_code_enabled": false,
     "cart_type": "drawer",
+    "cart_drawer_collection": "rakhi-collection",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -136,13 +138,6 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
           "footer-1": {
             "type": "link_list",
             "settings": {
@@ -159,12 +154,11 @@
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
