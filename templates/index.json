@@ -61,7 +61,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>With Selective Collective internet browsing won’t be the same for you anymore, all the fun is just a tap away.<\/em><\/p>"
+            "text": "<p><em>With Selective Collective online shopping won’t be the same for you anymore, all the fun is just a tap away.<\/em><\/p>"
           }
         }
       },
@@ -83,7 +83,7 @@
       "settings": {
         "title": "Rakhi Collection",
         "heading_size": "h1",
-        "description": "<p>With Raksha Bandhan around the corner, <\/p>",
+        "description": "<p>With Raksha Bandhan around the corner, shop from our collection of luxury Rakhis and find the perfect Rakhi gift for you sister!<\/p>",
         "show_description": false,
         "description_style": "subtitle",
         "collection": "rakhi-collection",
