@@ -99,6 +99,11 @@
     "currency_code_enabled": false,
     "cart_type": "drawer",
     "cart_drawer_collection": "rakhi-collection",
+    "checkout_header_image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logo_PNG.png",
+    "checkout_logo_size": "large",
+    "checkout_accent_color": "#1878b9",
+    "checkout_button_color": "#44103c",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
