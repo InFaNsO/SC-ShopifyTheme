@@ -38,15 +38,15 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2": {
@@ -126,8 +126,8 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
         "description",
+        "buy_buttons",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
         "collapsible-row-0",
