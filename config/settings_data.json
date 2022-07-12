@@ -11,9 +11,9 @@
     "gradient_background_1": "",
     "colors_background_2": "#fafafa",
     "gradient_background_2": "",
-    "type_header_font": "assistant_n4",
-    "heading_scale": 100,
-    "type_body_font": "assistant_n4",
+    "type_header_font": "josefin_sans_n6",
+    "heading_scale": 105,
+    "type_body_font": "mentor_sans_i4",
     "body_scale": 100,
     "page_width": 1100,
     "spacing_sections": 0,
@@ -114,7 +114,7 @@
               "text": "CHARGING RAKHI- AVAILABLE NOW",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/products\/rakhi-ios-android-charging-bracelet"
+              "link": "shopify:\/\/products\/copy-of-rakhi-ios-android-charging-bracelet-1"
             }
           }
         },
