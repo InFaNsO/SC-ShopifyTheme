@@ -40,7 +40,15 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
+          }
+        },
+        "4847a95f-4c19-4308-befd-b5272b30fa0c": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
           }
         },
         "buy_buttons": {
@@ -127,6 +135,7 @@
         "variant_picker",
         "quantity_selector",
         "description",
+        "4847a95f-4c19-4308-befd-b5272b30fa0c",
         "buy_buttons",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
