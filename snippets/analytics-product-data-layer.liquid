@@ -16,7 +16,7 @@ Visit https://analyzify.app/shopify-google-analytics/ga4 for complete tutorial
       var productCollection = "{{ product.collections.first.title | remove: "'" | remove: '"' }}"
 
       window.dataLayer.push({
-        event: 'analyzify_productDetail',
+        event: 'productDetail',
         productName: productName,
         productId: productId,
         productPrice: productPrice,
