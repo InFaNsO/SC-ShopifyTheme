@@ -47,7 +47,7 @@
         "4847a95f-4c19-4308-befd-b5272b30fa0c": {
           "type": "text",
           "settings": {
-            "text": "Text block",
+            "text": "{{ product.metafields.custom.discount_coupons | metafield_text }}",
             "text_style": "body"
           }
         },
