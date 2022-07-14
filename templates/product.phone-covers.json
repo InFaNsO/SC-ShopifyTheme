@@ -38,6 +38,13 @@
           "settings": {
           }
         },
+        "4a17a51b-bb65-406e-8f36-9b73b4374ee7": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.discount_coupons | metafield_text }}",
+            "text_style": "body"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -46,6 +53,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -126,6 +134,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "4a17a51b-bb65-406e-8f36-9b73b4374ee7",
         "buy_buttons",
         "description",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
