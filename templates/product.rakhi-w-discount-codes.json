@@ -47,7 +47,21 @@
         "4847a95f-4c19-4308-befd-b5272b30fa0c": {
           "type": "text",
           "settings": {
-            "text": "{{ product.metafields.custom.discount_coupons | metafield_text }}",
+            "text": "BUY 2 GET 10% OFF \"MY2CHARGEABLERAKHI\"",
+            "text_style": "body"
+          }
+        },
+        "c18af136-b207-4ad3-8028-a34fbeeb5255": {
+          "type": "text",
+          "settings": {
+            "text": "BUY 4 GET 15% OFF \"MY4CHARGEABLERAKHI\"",
+            "text_style": "body"
+          }
+        },
+        "a7c8c1da-5017-44ab-aa6c-4bdc2aa3ac80": {
+          "type": "text",
+          "settings": {
+            "text": "BUY 5 OR MORE GET 20% OFF \"MYCHARGEABLERAKHI\"",
             "text_style": "body"
           }
         },
@@ -136,6 +150,8 @@
         "quantity_selector",
         "description",
         "4847a95f-4c19-4308-befd-b5272b30fa0c",
+        "c18af136-b207-4ad3-8028-a34fbeeb5255",
+        "a7c8c1da-5017-44ab-aa6c-4bdc2aa3ac80",
         "buy_buttons",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
