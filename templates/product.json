@@ -281,10 +281,27 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "judgeme_section_review_widget_ba89": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_9ed5a13d": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_9ed5a13d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
+    "judgeme_section_review_widget_ba89",
     "image-with-text",
     "multicolumn",
     "product-recommendations",
