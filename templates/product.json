@@ -255,6 +255,62 @@
         "padding_bottom": 36
       }
     },
+    "1658297542efff98f1": {
+      "type": "multicolumn",
+      "blocks": {
+        "165829754242edfc22-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "title": "Free Shipping",
+            "text": "<p>Get Free and Fast shipping across India<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165829754242edfc22-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "title": "Free Cash On Delivery",
+            "text": "<p>Enjoy risk free and safe orders from us by using COD for tension free orders<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165829754242edfc22-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "7 Day Easy Return",
+            "text": "<p>With our 7 day easy return policy, you can rest assured if you dont like the product we will happily replace it for you <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165829754242edfc22-0",
+        "165829754242edfc22-1",
+        "165829754242edfc22-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "16573526251846fe48": {
       "type": "featured-collection",
       "settings": {
@@ -288,6 +344,7 @@
     "image-with-text",
     "multicolumn",
     "product-recommendations",
+    "1658297542efff98f1",
     "16573526251846fe48"
   ]
 }
