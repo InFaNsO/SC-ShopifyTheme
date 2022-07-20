@@ -263,7 +263,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/1.png",
             "title": "Free Shipping",
-            "text": "<p>Get Free and Fast shipping across India<\/p>",
+            "text": "<p>Get Free and Fast shipping across India.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -283,7 +283,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/3.png",
             "title": "7 Day Easy Return",
-            "text": "<p>With our 7 day easy return policy, you can rest assured if you dont like the product we will happily replace it for you <\/p>",
+            "text": "<p>You can rest assured if you dont like the product we will replace it for you <\/p>",
             "link_label": "",
             "link": ""
           }
