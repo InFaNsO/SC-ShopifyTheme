@@ -314,8 +314,9 @@
         "16583043124ce00eec-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/2.png",
+            "title": "Free Cash On Delivery",
+            "text": "<p><em>Enjoy risk free and safe orders from us by using COD for tension free orders<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
