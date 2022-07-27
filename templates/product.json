@@ -54,15 +54,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "00110d05-18b8-4d6e-ad6d-a11699ccfba6": {
-          "type": "shopify:\/\/apps\/truecaller-number-verification\/blocks\/product\/495edbea-d26e-4b9c-aade-8a6b26a82967",
-          "settings": {
-            "btn_color": "#44103c",
-            "btn_text_color": "#fff",
-            "btn_text": "Buy it now"
+            "show_dynamic_checkout": true
           }
         },
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2": {
@@ -145,7 +137,6 @@
         "description",
         "afbfd030-b6c4-4183-b54d-2d169b13d9f9",
         "buy_buttons",
-        "00110d05-18b8-4d6e-ad6d-a11699ccfba6",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
         "collapsible-row-0",
