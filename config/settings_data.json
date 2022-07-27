@@ -217,7 +217,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "8559671474569409115": {
+        "type": "shopify:\/\/apps\/truecaller-number-verification\/blocks\/cart\/495edbea-d26e-4b9c-aade-8a6b26a82967",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
