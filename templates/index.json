@@ -117,12 +117,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Rakhi Collection",
+        "title": "Table Planters",
         "heading_size": "h1",
-        "description": "<p>With Raksha Bandhan around the corner, shop from our collection of luxury Rakhis and find the perfect Rakhi gift for you sister!<\/p>",
-        "show_description": false,
+        "description": "<p>Our assorted range of Table Planters  are suitable for eny corner of your house and a very nice addition for giving gifts to your loved ones<\/p>",
+        "show_description": true,
         "description_style": "subtitle",
-        "collection": "rakhi-collection",
+        "collection": "table-planters",
         "products_to_show": 6,
         "columns_desktop": 3,
         "full_width": false,
@@ -296,7 +296,7 @@
         "1657049245384ec15d-7"
       ],
       "settings": {
-        "product": "fashion-accessories-mens-rakhi-ios-android-charging-bracelet",
+        "product": "home-decor-figurines-gold-deer-sculpture-set-of-2",
         "color_scheme": "background-1",
         "secondary_background": false,
         "hide_variants": false,
