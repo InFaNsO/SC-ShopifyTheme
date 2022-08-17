@@ -47,21 +47,21 @@
         "4847a95f-4c19-4308-befd-b5272b30fa0c": {
           "type": "text",
           "settings": {
-            "text": "BUY 2 GET 10% OFF \"MY2CHARGEABLERAKHI\"",
-            "text_style": "uppercase"
+            "text": "BUY 2 GET 10% OFF \"Planter10\"",
+            "text_style": "body"
           }
         },
         "c18af136-b207-4ad3-8028-a34fbeeb5255": {
           "type": "text",
           "settings": {
-            "text": "BUY 4 GET 15% OFF \"MY4CHARGEABLERAKHI\"",
-            "text_style": "uppercase"
+            "text": "BUY 3GET 15% OFF \"Planter15\"",
+            "text_style": "body"
           }
         },
         "a7c8c1da-5017-44ab-aa6c-4bdc2aa3ac80": {
           "type": "text",
           "settings": {
-            "text": "BUY 5 OR MORE GET 20% OFF \"MYCHARGEABLERAKHI\"",
+            "text": "BUY 4 OR MORE GET 20% OFF \"Planter20\"",
             "text_style": "body"
           }
         },
