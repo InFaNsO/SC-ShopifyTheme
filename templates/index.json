@@ -117,12 +117,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Table Planters",
+        "title": "New Arrivals",
         "heading_size": "h1",
-        "description": "<p>Our assorted range of Table Planters  are suitable for eny corner of your house and a very nice addition for giving gifts to your loved ones<\/p>",
+        "description": "<p>Best and the newest products we have<\/p>",
         "show_description": true,
         "description_style": "subtitle",
-        "collection": "table-planters",
+        "collection": "new-arrivals",
         "products_to_show": 6,
         "columns_desktop": 3,
         "full_width": false,
@@ -157,17 +157,18 @@
             "second_image": true
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "44dc752c-e1ed-4a56-bd92-2a0332e37e62": {
+          "type": "product",
           "settings": {
-            "collection": "table-planters"
+            "product": "colour-changing-phone-cover",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "collection-0",
         "product",
-        "collection-1"
+        "44dc752c-e1ed-4a56-bd92-2a0332e37e62"
       ],
       "settings": {
         "heading": "Home Decor",
