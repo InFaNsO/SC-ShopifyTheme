@@ -217,7 +217,34 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "giftit": {
+        "type": "shopify:\/\/apps\/giftit\/blocks\/gift-wrap-view\/1707cbba-a86f-4470-8050-49adecd487da",
+        "disabled": false,
+        "settings": {
+          "giftWrapToggle": true,
+          "giftMsgToggle": true,
+          "giftHidePriceToggle": true,
+          "displayText": "Is this a gift?",
+          "descriptionText": "Leave a gift note and get it gift wrapped!",
+          "textColor": "#000000",
+          "warningText": "Note that your gift settings will be registered after you click the “add to cart” button",
+          "editButtonText": "Edit",
+          "modalTitle": "Gift options",
+          "modalGiftWrapCheckLabel": "Gift wrap",
+          "modalGiftWrapEmptyState": "🖤 🎁 🖤",
+          "modalGiftMessageCheckLabel": "Gift message",
+          "modalGiftMessageConferrerLabel": "From",
+          "modalGiftMessageTextLabel": "Text",
+          "modalGiftReceiptCheckLabel": "Gift receipt",
+          "modalSubtotal": "Subtotal",
+          "modalPositiveButton": "Save",
+          "modalPositiveButtonColor": "#303333",
+          "modalNegativeButton": "Cancel"
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
