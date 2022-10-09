@@ -117,12 +117,12 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "New Arrivals",
+        "title": "Diwali Collection",
         "heading_size": "h1",
         "description": "<p>Best and the newest products we have<\/p>",
         "show_description": true,
         "description_style": "subtitle",
-        "collection": "new-arrivals",
+        "collection": "diwali-special-products",
         "products_to_show": 6,
         "columns_desktop": 3,
         "full_width": false,
