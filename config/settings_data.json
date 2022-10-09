@@ -225,7 +225,7 @@
         "settings": {
           "giftWrapToggle": false,
           "giftMsgToggle": true,
-          "giftHidePriceToggle": true,
+          "giftHidePriceToggle": false,
           "displayText": "Add a personalized message for your gift",
           "descriptionText": "Leave a gift note!",
           "textColor": "#000000",
