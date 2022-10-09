@@ -15,10 +15,10 @@
         "165718263734bf4c3a-0"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Cover_pics-4.jpg",
+        "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
