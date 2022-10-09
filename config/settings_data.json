@@ -221,7 +221,7 @@
     "blocks": {
       "giftit": {
         "type": "shopify:\/\/apps\/giftit\/blocks\/gift-wrap-view\/1707cbba-a86f-4470-8050-49adecd487da",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "giftWrapToggle": false,
           "giftMsgToggle": true,
