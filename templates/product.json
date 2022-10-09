@@ -157,6 +157,78 @@
         "padding_bottom": 12
       }
     },
+    "1658297542efff98f1": {
+      "type": "multicolumn",
+      "blocks": {
+        "165829754242edfc22-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "title": "Free Shipping",
+            "text": "<p>Get Free and Fast shipping across India.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165829754242edfc22-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "title": "Free Cash On Delivery",
+            "text": "<p>Enjoy risk free and safe orders from us by using COD for tension free orders<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "165829754242edfc22-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "7 Day Easy Return",
+            "text": "<p>You can rest assured if you dont like the product we will replace it for you <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165829754242edfc22-0",
+        "165829754242edfc22-1",
+        "165829754242edfc22-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16653479170dc3c667": {
+      "type": "apps",
+      "blocks": {
+        "3bb52b33-8905-43b4-98e6-211ede9296c2": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "3bb52b33-8905-43b4-98e6-211ede9296c2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "image-with-text": {
       "type": "image-with-text",
       "disabled": true,
@@ -255,62 +327,6 @@
         "padding_bottom": 36
       }
     },
-    "1658297542efff98f1": {
-      "type": "multicolumn",
-      "blocks": {
-        "165829754242edfc22-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1.png",
-            "title": "Free Shipping",
-            "text": "<p>Get Free and Fast shipping across India.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "165829754242edfc22-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2.png",
-            "title": "Free Cash On Delivery",
-            "text": "<p>Enjoy risk free and safe orders from us by using COD for tension free orders<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "165829754242edfc22-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
-            "title": "7 Day Easy Return",
-            "text": "<p>You can rest assured if you dont like the product we will replace it for you <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "165829754242edfc22-0",
-        "165829754242edfc22-1",
-        "165829754242edfc22-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16573526251846fe48": {
       "type": "featured-collection",
       "settings": {
@@ -341,10 +357,11 @@
   },
   "order": [
     "main",
+    "1658297542efff98f1",
+    "16653479170dc3c667",
     "image-with-text",
     "multicolumn",
     "product-recommendations",
-    "1658297542efff98f1",
     "16573526251846fe48"
   ]
 }
