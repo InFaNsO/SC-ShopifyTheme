@@ -4,7 +4,7 @@
   var icartProductObj = {};
   var icartNodeCallToken = eval({{ shop.metafields.icartCallToken | json }});
   var icart_cart_arr = {{ cart | json }};
-  var icartScid = 'Yzg0ZmQ5Zjk2NjE0ZGU0YWRiZTAyNDg3NWRkMWM1ZDYuNzRhM2FlNzlhZTU4MDFjZTE1ZjFkYTQ3MDM3ODk0ZTU=';
+  var icartScid = 'ZDFlZmE0MTRiNDFkYWY3ZGZlZGIwOGNiMTY3NTVhNmMuM2UwYzMxYTU2ZjZjMzM1YzFkMjZiOGMyZjI3ODQ5MTY=';
   var icartCurrencyWihoutFormat = "{{ shop.money_format | escape }}";
   var [cart_prod_coll_id_arr, cart_prod_id_arr, cart_prod_wise_coll_id_arr, cart_prod_wise_tag_arr, icartLineItemData] = [[], [], [], [], {}];
   {%- for item in cart.items -%}
@@ -19,7 +19,7 @@
   	icartCollectionIds.length && cart_prod_wise_coll_id_arr.push(icartCollectionIds);
   {%- endfor -%}
 </script>
-{% assign icart_page_type = "1" %}
+{% assign icart_page_type = "0" %}
 {% if request.page_type == "cart" and icart_page_type != '1' %}
     <!-- Full cart content -->
     {% include 'icart-full-page' %}
