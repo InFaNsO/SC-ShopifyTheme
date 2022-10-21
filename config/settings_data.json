@@ -245,6 +245,12 @@
           "distance_right": 30,
           "distance_bottom": 30
         }
+      },
+      "16304872806d79912c": {
+        "type": "shopify:\/\/apps\/icart-cart-drawer-cart-upsell\/blocks\/icart-block\/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
