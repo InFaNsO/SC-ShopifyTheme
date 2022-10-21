@@ -219,29 +219,31 @@
 
     ],
     "blocks": {
-      "giftit": {
-        "type": "shopify:\/\/apps\/giftit\/blocks\/gift-wrap-view\/1707cbba-a86f-4470-8050-49adecd487da",
-        "disabled": true,
+      "11813581335429059158": {
+        "type": "shopify:\/\/apps\/whatsapp-chat-widget\/blocks\/app-embed\/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
+        "disabled": false,
         "settings": {
-          "giftWrapToggle": false,
-          "giftMsgToggle": true,
-          "giftHidePriceToggle": false,
-          "displayText": "Add a personalized message for your gift",
-          "editButtonText": "Edit",
-          "descriptionText": "Leave a gift note!",
-          "textColor": "#000000",
-          "warningText": "Note that your gift settings will be registered after you click the “add to cart” button",
-          "modalTitle": "Gift options",
-          "modalGiftWrapCheckLabel": "Gift wrap",
-          "modalGiftMessageCheckLabel": "Gift message",
-          "modalGiftMessageConferrerLabel": "From",
-          "modalGiftMessageTextLabel": "Text",
-          "modalGiftReceiptCheckLabel": "Gift receipt",
-          "modalGiftWrapEmptyState": "🖤 🎁 🖤",
-          "modalSubtotal": "Subtotal",
-          "modalPositiveButton": "Save",
-          "modalPositiveButtonColor": "#303333",
-          "modalNegativeButton": "Cancel"
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "show_label_on_desktop": true,
+          "show_label_on_mobile": true,
+          "show_scroll_bar": false,
+          "show_gdpr_notice": false,
+          "use_click_to_chat": true,
+          "widget_label_text": "Having Doubts? Chat with us",
+          "widget_text": "Start a Conversation",
+          "description": "Let us know about you query and we will be right here to assist you",
+          "response_text": "We are always here to help you! 😀",
+          "gdpr_text": "Please accept our privacy policy first to start a conversation.",
+          "background_color": "#2DB742",
+          "text_color": "#ffffff",
+          "position": "right",
+          "label_width": 155,
+          "scroll_bar_height": 500,
+          "icon_size": 56,
+          "distance_left": 30,
+          "distance_right": 30,
+          "distance_bottom": 30
         }
       }
     }
