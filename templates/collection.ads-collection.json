@@ -6,13 +6,25 @@
         "165718263734bf4c3a-0": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "samlpe",
             "heading_size": "h1"
+          }
+        },
+        "2ffa47ac-4c95-43fd-9252-33d89aef9fc6": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button",
+            "button_link_1": "shopify:\/\/products\/home-decor-neon-lights-dream-neon-light",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": true
           }
         }
       },
       "block_order": [
-        "165718263734bf4c3a-0"
+        "165718263734bf4c3a-0",
+        "2ffa47ac-4c95-43fd-9252-33d89aef9fc6"
       ],
       "settings": {
         "image": "{{ collection.image }}",
@@ -32,7 +44,7 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "background-1"
       }
     },
