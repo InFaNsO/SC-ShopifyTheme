@@ -57,6 +57,17 @@
             "show_dynamic_checkout": true
           }
         },
+        "51540896-b573-4c38-bd9f-648f520e5f82": {
+          "type": "shopify:\/\/apps\/trend-ugc-shoppable-videos\/blocks\/product-stories\/2a947c6d-32d1-4795-b841-89aeea481b6f",
+          "settings": {
+            "h-align": "center",
+            "story-size": 2,
+            "accent-color": "#a7a7a7",
+            "story-player-label": "See it in action",
+            "story-player-label-visible": true,
+            "app-proxy": "\/apps\/trend-stories"
+          }
+        },
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2": {
           "type": "collapsible_tab",
           "settings": {
@@ -137,6 +148,7 @@
         "description",
         "afbfd030-b6c4-4183-b54d-2d169b13d9f9",
         "buy_buttons",
+        "51540896-b573-4c38-bd9f-648f520e5f82",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
         "collapsible-row-0",
