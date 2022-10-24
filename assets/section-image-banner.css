@@ -147,19 +147,6 @@
   left: 0;
   top: 0;
   width: 100%;
-  background-position: center;
-  background-size: cover;
-  animation: zoom-in 5s ease forwards;
-}
-
-@keyframes zoom-in {
-  0% {
-    transform: scale(1,1);
-  }
-  100% {
-    transform: scale(1.1,1.1);
-  }
-  
 }
 
 .banner__media-half {
