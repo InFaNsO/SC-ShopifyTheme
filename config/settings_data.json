@@ -111,10 +111,10 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Get 5% off on Prepaid Orders",
+              "text": "Post-It Light Back in STOCK!!",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/best-sellers"
+              "link": "shopify:\/\/products\/home-decor-figurines-post-it-lamp"
             }
           }
         },
