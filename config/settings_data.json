@@ -219,6 +219,12 @@
 
     ],
     "blocks": {
+      "16304872806d79912c": {
+        "type": "shopify:\/\/apps\/icart-cart-drawer-cart-upsell\/blocks\/icart-block\/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "11813581335429059158": {
         "type": "shopify:\/\/apps\/whatsapp-chat-widget\/blocks\/app-embed\/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
         "disabled": false,
@@ -235,21 +241,15 @@
           "description": "Let us know about you query and we will be right here to assist you",
           "response_text": "We are always here to help you! 😀",
           "gdpr_text": "Please accept our privacy policy first to start a conversation.",
-          "background_color": "#2DB742",
+          "background_color": "#2db742",
           "text_color": "#ffffff",
-          "position": "right",
+          "position": "left",
           "label_width": 155,
           "scroll_bar_height": 500,
           "icon_size": 56,
           "distance_left": 30,
           "distance_right": 30,
           "distance_bottom": 30
-        }
-      },
-      "16304872806d79912c": {
-        "type": "shopify:\/\/apps\/icart-cart-drawer-cart-upsell\/blocks\/icart-block\/e651bbc2-5760-47d8-a513-2aa6ee3a9aa7",
-        "disabled": false,
-        "settings": {
         }
       }
     }
