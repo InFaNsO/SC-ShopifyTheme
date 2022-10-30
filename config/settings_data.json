@@ -244,7 +244,7 @@
           "background_color": "#2db742",
           "text_color": "#ffffff",
           "position": "left",
-          "label_width": 130,
+          "label_width": 65,
           "scroll_bar_height": 500,
           "icon_size": 56,
           "distance_left": 30,
