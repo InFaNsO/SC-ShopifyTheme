@@ -236,7 +236,7 @@
           "show_scroll_bar": false,
           "show_gdpr_notice": false,
           "use_click_to_chat": true,
-          "widget_label_text": "Having Doubts? Chat with us",
+          "widget_label_text": "Having Doubts?",
           "widget_text": "Start a Conversation",
           "description": "Let us know about you query and we will be right here to assist you",
           "response_text": "We are always here to help you! 😀",
