@@ -137,8 +137,8 @@
       "settings": {
         "title": "Trendy Products",
         "heading_size": "h1",
-        "description": "<p>Best and the newest products we have<\/p>",
-        "show_description": true,
+        "description": "<p>Only the MOST trendy products for our awesome clients<\/p>",
+        "show_description": false,
         "description_style": "subtitle",
         "collection": "diwali-special-products",
         "products_to_show": 6,
