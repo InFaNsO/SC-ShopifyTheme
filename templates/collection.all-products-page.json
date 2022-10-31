@@ -1,5 +1,22 @@
 {
   "sections": {
+    "166718871160301fc0": {
+      "type": "apps",
+      "blocks": {
+        "cf21676a-533b-4bf9-aa42-8ca746c9f448": {
+          "type": "shopify:\/\/apps\/tolstoy-product-video-quiz\/blocks\/carousel-block\/06fa8282-42ff-403e-b67c-1936776aed11",
+          "settings": {
+            "publishId": "{{ collection.metafields.custom.tolstoy_feed.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "cf21676a-533b-4bf9-aa42-8ca746c9f448"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "16571826378c955bc1": {
       "type": "image-banner",
       "blocks": {
@@ -56,6 +73,7 @@
     }
   },
   "order": [
+    "166718871160301fc0",
     "16571826378c955bc1",
     "banner",
     "product-grid"
