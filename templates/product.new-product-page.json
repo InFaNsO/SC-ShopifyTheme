@@ -69,7 +69,6 @@
         },
         "99d3808e-9e43-4a64-be96-97381dd0cb63": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Colour",
             "icon": "star",
@@ -79,7 +78,6 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Materials",
             "icon": "leather",
@@ -89,7 +87,6 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
@@ -99,7 +96,6 @@
         },
         "b086b3d4-3550-4b40-861c-ee231d9746f3": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "{{ product.metafields.custom.customrowheading.value }}",
             "icon": "heart",
@@ -109,7 +105,6 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
@@ -119,7 +114,6 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
