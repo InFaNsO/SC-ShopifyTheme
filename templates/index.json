@@ -132,6 +132,78 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "1657049246facafce7": {
+      "type": "featured-product",
+      "blocks": {
+        "1657049245384ec15d-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1657049245384ec15d-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1657049245384ec15d-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1657049245384ec15d-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1657049245384ec15d-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1657049245384ec15d-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1657049245384ec15d-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1657049245384ec15d-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1657049245384ec15d-0",
+        "1657049245384ec15d-1",
+        "1657049245384ec15d-2",
+        "1657049245384ec15d-3",
+        "1657049245384ec15d-4",
+        "1657049245384ec15d-5",
+        "1657049245384ec15d-6",
+        "1657049245384ec15d-7"
+      ],
+      "settings": {
+        "product": "home-decor-figurines-chandelier-candle-tray",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -250,78 +322,6 @@
         "swipe_on_mobile": true,
         "padding_top": 28,
         "padding_bottom": 28
-      }
-    },
-    "1657049246facafce7": {
-      "type": "featured-product",
-      "blocks": {
-        "1657049245384ec15d-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1657049245384ec15d-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1657049245384ec15d-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1657049245384ec15d-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1657049245384ec15d-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1657049245384ec15d-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1657049245384ec15d-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1657049245384ec15d-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1657049245384ec15d-0",
-        "1657049245384ec15d-1",
-        "1657049245384ec15d-2",
-        "1657049245384ec15d-3",
-        "1657049245384ec15d-4",
-        "1657049245384ec15d-5",
-        "1657049245384ec15d-6",
-        "1657049245384ec15d-7"
-      ],
-      "settings": {
-        "product": "home-decor-figurines-post-it-lamp",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 16
       }
     },
     "video": {
@@ -447,10 +447,10 @@
     "image_banner",
     "rich_text",
     "1657194732e0aa9c3f",
+    "1657049246facafce7",
     "featured_collection",
     "collage",
     "1657048164ec165437",
-    "1657049246facafce7",
     "video",
     "1657049333e47cfc3e",
     "multicolumn",
