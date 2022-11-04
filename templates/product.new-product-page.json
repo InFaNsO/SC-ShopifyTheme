@@ -38,27 +38,28 @@
           "settings": {
           }
         },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
         "afbfd030-b6c4-4183-b54d-2d169b13d9f9": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.custom.discount_coupons | metafield_text }}",
             "text_style": "body"
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Description",
             "icon": "clipboard",
@@ -68,6 +69,7 @@
         },
         "99d3808e-9e43-4a64-be96-97381dd0cb63": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Colour",
             "icon": "star",
@@ -77,6 +79,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Materials",
             "icon": "leather",
@@ -86,6 +89,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
@@ -95,6 +99,7 @@
         },
         "b086b3d4-3550-4b40-861c-ee231d9746f3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "{{ product.metafields.custom.customrowheading.value }}",
             "icon": "heart",
@@ -104,6 +109,7 @@
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping",
             "icon": "truck",
@@ -113,6 +119,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
@@ -134,9 +141,9 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "buy_buttons",
         "description",
         "afbfd030-b6c4-4183-b54d-2d169b13d9f9",
-        "buy_buttons",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
         "collapsible-row-0",
@@ -215,6 +222,17 @@
     },
     "16653479170dc3c667": {
       "type": "apps",
+      "blocks": {
+        "a09491f3-d916-4a4c-adc4-d4f1517e66dc": {
+          "type": "shopify:\/\/apps\/tolstoy-product-video-quiz\/blocks\/carousel-block\/06fa8282-42ff-403e-b67c-1936776aed11",
+          "settings": {
+            "publishId": "s7jf3dc6cjeuw"
+          }
+        }
+      },
+      "block_order": [
+        "a09491f3-d916-4a4c-adc4-d4f1517e66dc"
+      ],
       "settings": {
         "include_margins": true
       }
