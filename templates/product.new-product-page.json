@@ -167,6 +167,16 @@
     "1658297542efff98f1": {
       "type": "multicolumn",
       "blocks": {
+        "165829754242edfc22-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "title": "7 Day Easy Return",
+            "text": "<p>You can rest assured if you dont like the product we will replace it for you <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "165829754242edfc22-0": {
           "type": "column",
           "settings": {
@@ -181,27 +191,17 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/2.png",
-            "title": "Free Cash On Delivery",
+            "title": "Cash On Delivery",
             "text": "<p>Enjoy risk free and safe orders from us by using COD for tension free orders<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "165829754242edfc22-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
-            "title": "7 Day Easy Return",
-            "text": "<p>You can rest assured if you dont like the product we will replace it for you <\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
+        "165829754242edfc22-2",
         "165829754242edfc22-0",
-        "165829754242edfc22-1",
-        "165829754242edfc22-2"
+        "165829754242edfc22-1"
       ],
       "settings": {
         "title": "",
