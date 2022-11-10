@@ -12,6 +12,20 @@
 })( window.GemQuery || jQuery );
   
     (function( jQuery ){
+  var $module = jQuery('#m-1668081240232').children('.module');
+  var mode = jQuery('.gryffeditor').hasClass('editing') ? 'dev' : 'production';
+  if (mode == 'production') {
+    jQuery(window).ready(function() {
+      $module.gfVideoBg();
+    })
+  } else {
+    $module.gfVideoBg();
+  }
+})( window.GemQuery || jQuery );
+  
+    
+  
+    (function( jQuery ){
   var $module = jQuery('#m-1668080196544');
   $module.gfV4Parallax();
 })( window.GemQuery || jQuery );
@@ -141,20 +155,6 @@
     
   
     
-  
-    
-  
-    (function( jQuery ){
-  var $module = jQuery('#m-1668081240232').children('.module');
-  var mode = jQuery('.gryffeditor').hasClass('editing') ? 'dev' : 'production';
-  if (mode == 'production') {
-    jQuery(window).ready(function() {
-      $module.gfVideoBg();
-    })
-  } else {
-    $module.gfVideoBg();
-  }
-})( window.GemQuery || jQuery );
   
     
   
