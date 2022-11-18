@@ -111,10 +111,10 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Post-It Light Back in STOCK!!",
+              "text": "Finally something unique for boring candles",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/products\/home-decor-figurines-post-it-lamp"
+              "link": "shopify:\/\/products\/home-decor-figurines-chandelier-candle-tray"
             }
           }
         },
@@ -250,12 +250,6 @@
           "distance_left": 30,
           "distance_right": 30,
           "distance_bottom": 30
-        }
-      },
-      "1692329972272007824": {
-        "type": "shopify:\/\/apps\/zepto-product-personalizer\/blocks\/product_personalizer_main\/7411210d-7b32-4c09-9455-e129e3be4729",
-        "disabled": true,
-        "settings": {
         }
       },
       "14060646107696862457": {
