@@ -263,12 +263,31 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "cd4b2b31-7548-4f69-9519-c5013e90e791": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_4_Damage_Protection.gif",
+            "heading": "Damage Protection",
+            "heading_size": "h1",
+            "subheading": "If any product you recieve is damaged or does not meet your quality expectations, then we will send a FREE replacement no questions asked!",
+            "button_label": "Musical Duo",
+            "link": "shopify:\/\/products\/home-decor-figurines-the-musical-duo",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-0",
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-1",
-        "1e1bc53b-512c-4736-a2a6-bb3e69416609"
+        "1e1bc53b-512c-4736-a2a6-bb3e69416609",
+        "cd4b2b31-7548-4f69-9519-c5013e90e791"
       ],
       "settings": {
         "layout": "full_bleed",
