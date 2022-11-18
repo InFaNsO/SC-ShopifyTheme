@@ -207,6 +207,79 @@
         "padding_bottom": 16
       }
     },
+    "58133462-3369-4891-aa5a-f30cd4fa7b18": {
+      "type": "slideshow",
+      "blocks": {
+        "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_1_Premium_Quality_compressed.gif",
+            "heading": "Premium Quality",
+            "heading_size": "h1",
+            "subheading": "All of our products are made from the highest quality ceramic!",
+            "button_label": "Elegant Blue Deer Holder",
+            "link": "shopify:\/\/products\/home-decor-figurines-elegant-blue-dear-holder",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_2_Satisfaction_Get_what_see_compressed.gif",
+            "heading": "Satisfaction Guarantee",
+            "heading_size": "h1",
+            "subheading": "We pride ourselfs on our customer satisfaction. If you are not happy with our product we will give a refund no questions asked!",
+            "button_label": "Enchanted Iron Candles Stant",
+            "link": "shopify:\/\/products\/enchanted-modern-iron-candle-holder-with-scented-candle",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1e1bc53b-512c-4736-a2a6-bb3e69416609": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_3_Make_a_Statement_compressed_4fc3c93b-f3d4-4644-bb6a-a9bd836c56c8.gif",
+            "heading": "Make your STATEMENT",
+            "heading_size": "h1",
+            "subheading": "With our wide collection with amazing quality, be ready to make a Luxurious Statement.",
+            "button_label": "Birds Of Paradise",
+            "link": "shopify:\/\/products\/home-decor-figurines-birds-of-paradise-set",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-0",
+        "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-1",
+        "1e1bc53b-512c-4736-a2a6-bb3e69416609"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -452,6 +525,7 @@
     "rich_text",
     "1657194732e0aa9c3f",
     "1657049246facafce7",
+    "58133462-3369-4891-aa5a-f30cd4fa7b18",
     "featured_collection",
     "collage",
     "1657048164ec165437",
