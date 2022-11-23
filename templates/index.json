@@ -196,7 +196,7 @@
         "1657049245384ec15d-7"
       ],
       "settings": {
-        "product": "home-decor-figurines-chandelier-candle-tray",
+        "product": "transparent-acrylic-will-glow-message-board",
         "color_scheme": "background-1",
         "secondary_background": false,
         "hide_variants": false,
@@ -207,6 +207,7 @@
     },
     "58133462-3369-4891-aa5a-f30cd4fa7b18": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-0": {
           "type": "slide",
@@ -295,6 +296,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Trendy Products",
         "heading_size": "h1",
@@ -322,6 +324,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -361,6 +364,7 @@
     },
     "1657048164ec165437": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "1657048164dee18a86-0": {
           "type": "featured_collection",
