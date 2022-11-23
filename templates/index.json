@@ -11,8 +11,9 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/Home_Decor_Slideshow_1_TN.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=m1Ic6fU5FAc",
-        "description": "",
+        "description": "Memo Lamp",
         "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
@@ -195,7 +196,7 @@
         "1657049245384ec15d-7"
       ],
       "settings": {
-        "product": "home-decor-figurines-chandelier-candle-tray",
+        "product": "home-decor-figurines-post-it-lamp",
         "color_scheme": "background-1",
         "secondary_background": false,
         "hide_variants": false,
@@ -210,6 +211,7 @@
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_1_Premium_Quality_compressed.gif",
             "heading": "Premium Quality",
             "heading_size": "h1",
             "subheading": "All of our products are made from the highest quality ceramic!",
@@ -227,6 +229,7 @@
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_2_Satisfaction_Get_what_see_compressed.gif",
             "heading": "Satisfaction Guarantee",
             "heading_size": "h1",
             "subheading": "We pride ourselfs on our customer satisfaction. If you are not happy with our product we will give a refund no questions asked!",
@@ -244,6 +247,7 @@
         "1e1bc53b-512c-4736-a2a6-bb3e69416609": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_3_Make_a_Statement_compressed_4fc3c93b-f3d4-4644-bb6a-a9bd836c56c8.gif",
             "heading": "Make your STATEMENT",
             "heading_size": "h1",
             "subheading": "With our wide collection with amazing quality, be ready to make a Luxurious Statement.",
@@ -261,11 +265,12 @@
         "cd4b2b31-7548-4f69-9519-c5013e90e791": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/HD_Landing_4_Damage_Protection.gif",
             "heading": "Damage Protection",
             "heading_size": "h1",
             "subheading": "If any product you recieve is damaged or does not meet your quality expectations, then we will send a FREE replacement no questions asked!",
-            "button_label": "Musical Duo",
-            "link": "shopify:\/\/products\/home-decor-figurines-the-musical-duo",
+            "button_label": "Musical Duo & Dance Of Love",
+            "link": "shopify:\/\/products\/musical-duo-dance-of-love-set",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -294,6 +299,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Trendy Products",
         "heading_size": "h1",
@@ -321,6 +327,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -360,6 +367,7 @@
     },
     "1657048164ec165437": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "1657048164dee18a86-0": {
           "type": "featured_collection",
