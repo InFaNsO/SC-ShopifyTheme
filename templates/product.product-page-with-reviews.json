@@ -160,7 +160,6 @@
     },
     "1658297542efff98f1": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "165829754242edfc22-2": {
           "type": "column",
@@ -318,7 +317,6 @@
     },
     "16573526251846fe48": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "You may also like",
         "heading_size": "h2",

@@ -135,6 +135,7 @@
     },
     "1657049246facafce7": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "1657049245384ec15d-0": {
           "type": "text",
