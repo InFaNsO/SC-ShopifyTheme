@@ -11,7 +11,8 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=m1Ic6fU5FAc",
+        "cover_image": "shopify:\/\/shop_images\/2022-09-09-19-31-35-886.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=RPVgpJdDW6U",
         "description": "Memo Lamp",
         "full_width": false,
         "color_scheme": "background-1",
@@ -195,7 +196,7 @@
         "1657049245384ec15d-7"
       ],
       "settings": {
-        "product": "home-decor-figurines-post-it-lamp",
+        "product": "transparent-acrylic-will-glow-message-board",
         "color_scheme": "background-1",
         "secondary_background": false,
         "hide_variants": false,
