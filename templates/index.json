@@ -11,9 +11,9 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/Home_Decor_Slideshow_1_TN.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=m1Ic6fU5FAc",
-        "description": "",
+        "cover_image": "shopify:\/\/shop_images\/2022-09-09-19-31-35-886.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=RPVgpJdDW6U",
+        "description": "Memo Lamp",
         "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
@@ -56,7 +56,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/The_Musical_Duo_1.webp",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -106,7 +105,6 @@
         "1657194732608abc15-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-1_4e375eae-d549-4ee0-a828-a8b7f089185f.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -213,7 +211,6 @@
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HD_Landing_1_Premium_Quality_compressed.gif",
             "heading": "Premium Quality",
             "heading_size": "h1",
             "subheading": "All of our products are made from the highest quality ceramic!",
@@ -231,7 +228,6 @@
         "template--15103545376900__58133462-3369-4891-aa5a-f30cd4fa7b18-1668737397828f1b82-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HD_Landing_2_Satisfaction_Get_what_see_compressed.gif",
             "heading": "Satisfaction Guarantee",
             "heading_size": "h1",
             "subheading": "We pride ourselfs on our customer satisfaction. If you are not happy with our product we will give a refund no questions asked!",
@@ -249,7 +245,6 @@
         "1e1bc53b-512c-4736-a2a6-bb3e69416609": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HD_Landing_3_Make_a_Statement_compressed_4fc3c93b-f3d4-4644-bb6a-a9bd836c56c8.gif",
             "heading": "Make your STATEMENT",
             "heading_size": "h1",
             "subheading": "With our wide collection with amazing quality, be ready to make a Luxurious Statement.",
@@ -267,7 +262,6 @@
         "cd4b2b31-7548-4f69-9519-c5013e90e791": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HD_Landing_4_Damage_Protection.gif",
             "heading": "Damage Protection",
             "heading_size": "h1",
             "subheading": "If any product you recieve is damaged or does not meet your quality expectations, then we will send a FREE replacement no questions asked!",
@@ -501,19 +495,6 @@
     },
     "1660703589e7af3a34": {
       "type": "apps",
-      "blocks": {
-        "7e1d3a32-1140-47e6-b9ee-68d76e940f52": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 30,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "7e1d3a32-1140-47e6-b9ee-68d76e940f52"
-      ],
       "settings": {
         "include_margins": true
       }
