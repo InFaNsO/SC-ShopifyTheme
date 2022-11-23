@@ -289,17 +289,16 @@
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
+        "slide_height": "small",
+        "slider_visual": "dots",
         "auto_rotate": false,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
     },
     "featured_collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Trendy Products",
         "heading_size": "h1",
@@ -327,12 +326,11 @@
     },
     "collage": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "figurines"
+            "collection": "home-decor"
           }
         },
         "product": {
@@ -367,7 +365,6 @@
     },
     "1657048164ec165437": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "1657048164dee18a86-0": {
           "type": "featured_collection",
@@ -436,6 +433,7 @@
     },
     "1657049333e47cfc3e": {
       "type": "slideshow",
+      "disabled": true,
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
