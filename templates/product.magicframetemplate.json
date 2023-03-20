@@ -38,11 +38,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "afbfd030-b6c4-4183-b54d-2d169b13d9f9": {
           "type": "text",
           "settings": {
@@ -54,6 +49,11 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         },
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2": {
@@ -133,9 +133,9 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "description",
         "afbfd030-b6c4-4183-b54d-2d169b13d9f9",
         "buy_buttons",
+        "description",
         "dfdb6943-da7a-4f6f-a17d-5ceb9eebd3a2",
         "99d3808e-9e43-4a64-be96-97381dd0cb63",
         "collapsible-row-0",
